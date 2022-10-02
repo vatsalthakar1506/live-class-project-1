@@ -1,0 +1,199 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@200;500&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Nova Square");
+
+body {
+  margin: 0;
+  padding: 0;
+}
+.navbar-container {
+  position: absolute;
+  top: 50px;
+  left: 80px;
+}
+.image {
+  top: 20px;
+  position: absolute;
+  left: 80px;
+}
+/* .logo {
+  width: 130px;
+} */
+
+.hero-container {
+  position: relative;
+}
+
+.hero-container-right {
+  position: relative;
+}
+.hero-heading {
+  position: absolute;
+  top: 200px;
+  left: 640px;
+  font-family: "Nova Square";
+  font-size: 65px;
+  width: 800px;
+}
+.hero-description {
+  position: absolute;
+  top: 400px;
+  width: 550px;
+  left: 700px;
+  font-size: 14px;
+  text-align-last: center;
+  font-family: "Arial";
+  color: rgb(96, 90, 90);
+}
+.hero-image > img {
+  width: 350px;
+}
+
+.square {
+  position: absolute;
+  top: 420px;
+  left: 300px;
+  /* left: 650px; */
+  width: 100px;
+  height: 100px;
+}
+.star {
+  position: absolute;
+  top: 170px;
+  right: 150px;
+}
+.globe {
+  position: absolute;
+  top: 135px;
+  right: 600px;
+}
+
+.button {
+  /* position: absolute; */
+}
+.contact-heading {
+  position: absolute;
+  top: 580px;
+  left: 950px;
+  font-size: 20px;
+  font-family: "sans-serif";
+  color: rgb(96, 90, 90);
+  font-weight: 645;
+}
+.star1 {
+  position: absolute;
+  top: 610px;
+  left: 620px;
+}
+.icons {
+  /* position: absolute;
+  top: 780px;
+  left: 1010px; */
+}
+.icons1 {
+  position: absolute;
+  top: 640px;
+  left: 890px;
+}
+.icons2 {
+  position: absolute;
+  top: 640px;
+  left: 950px;
+}
+.icons3 {
+  position: absolute;
+  top: 640px;
+  left: 1010px;
+}
+.icons4 {
+  position: absolute;
+  top: 640px;
+  left: 1060px;
+}
+
+.button-email {
+  position: absolute;
+  top: 520px;
+  left: 820px;
+  border-radius: 0.5em;
+  padding: 0px 25px 0px 25px;
+  font-size: 20px;
+  font-family: "Nova Square";
+  color: rgb(96, 90, 90);
+  background-color: #fff;
+}
+.button-join {
+  position: absolute;
+  left: 1030px;
+  top: 520px;
+  border-radius: 0.4em;
+  padding: 0px 5px 0px 5px;
+  font-size: 20px;
+  font-family: "Nova Square";
+  color: rgb(96, 90, 90);
+  background-color: black;
+  color: #fff;
+}
+
+.list {
+  position: relative;
+  font-size: 25px;
+  list-style: none;
+  font-family: "Nova Square";
+  font-weight: 525;
+  font: small-caps;
+  /* font-stretch: expanded; */
+}
+.hero-image {
+  position: absolute;
+  top: 180px;
+  left: 155px;
+}
+
+.list-item1 {
+  position: absolute;
+  left: 420px;
+  font-weight: 1000;
+  font-size: 25px;
+  width: 3%;
+
+  text-decoration: underline;
+  text-underline-offset: 8px;
+}
+
+.list-item3 {
+  position: absolute;
+  left: 540px;
+}
+.list-item2 {
+  position: absolute;
+  left: 660px;
+}
+.list-item4 {
+  position: absolute;
+  left: 760px;
+}
+.list-item5 {
+  position: absolute;
+  left: 860px;
+}
+
+.button-group {
+  position: relative;
+}
+.search-icon {
+  position: absolute;
+  left: 1150px;
+  height: 100px;
+}
+.nav-button {
+  position: absolute;
+  left: 1200px;
+  /* left: 1160px; */
+  border-radius: 0.6em;
+  padding: 6px 45px 2px 45px;
+  background-color: #fff;
+  font-family: "Arial";
+  color: rgb(96, 90, 90);
+  font-size: 22px;
+  border: 3px solid black;
+}
