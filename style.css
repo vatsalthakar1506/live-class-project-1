@@ -5,19 +5,16 @@ body {
   margin: 0;
   padding: 0;
 }
-/* .navbar-container {
+.navbar-container {
   position: absolute;
   top: 50px;
   left: 80px;
-} */
+}
 .image {
   top: 20px;
   position: absolute;
   left: 80px;
 }
-/* .logo {
-  width: 130px;
-} */
 
 .hero-container {
   position: relative;
@@ -56,7 +53,7 @@ body {
   width: 100px;
   height: 100px;
 }
-/* .star {
+.star {
   position: absolute;
   top: 170px;
   right: 200px;
@@ -65,7 +62,7 @@ body {
   position: absolute;
   top: 135px;
   right: 600px;
-} */
+}
 
 .button {
   /* position: absolute; */
