@@ -5,11 +5,11 @@ body {
   margin: 0;
   padding: 0;
 }
-.navbar-container {
+/* .navbar-container {
   position: absolute;
   top: 50px;
   left: 80px;
-}
+} */
 .image {
   top: 20px;
   position: absolute;
@@ -52,20 +52,20 @@ body {
   position: absolute;
   top: 420px;
   left: 300px;
-  /* left: 650px; */
+
   width: 100px;
   height: 100px;
 }
-.star {
+/* .star {
   position: absolute;
   top: 170px;
-  right: 150px;
+  right: 200px;
 }
 .globe {
   position: absolute;
   top: 135px;
   right: 600px;
-}
+} */
 
 .button {
   /* position: absolute; */
@@ -182,12 +182,11 @@ body {
 }
 .search-icon {
   position: absolute;
-  left: 1150px;
-  height: 100px;
+  left: 1050px;
 }
 .nav-button {
   position: absolute;
-  left: 1200px;
+  left: 1100px;
   /* left: 1160px; */
   border-radius: 0.6em;
   padding: 6px 45px 2px 45px;
